@@ -41,7 +41,7 @@ int main()
     int sum,k;
  
      
-    printf("Enter number of Rows of matrix a: ");
+    printf(" Enter number of Rows of matrix a: ");
     scanf("%d",&r1);
     printf("Enter number of Cols of matrix a: ");
     scanf("%d",&c1);
